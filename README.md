@@ -1,0 +1,2 @@
+# TypeScriptGIT
+TypeScriptProject
